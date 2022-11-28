@@ -1,0 +1,6 @@
+CoreGui:SetCore("SendNotification", {
+    Title = "By BaYa",
+    Text = "Copied Link. Paste it in your browser!",
+    Duration = 5,
+})
+setclipboard("https://cdn.discordapp.com/attachments/1008277043110215682/1046793106722406481/baya2006.rar"
